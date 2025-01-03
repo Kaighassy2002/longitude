@@ -53,6 +53,9 @@ h3{
     width: auto;
     height: auto;
   }
+  .footer-text{
+    font-size: 12px;
+  }
 
   @media screen and (max-width: 768px) { /* For tablets and small screens */
     
